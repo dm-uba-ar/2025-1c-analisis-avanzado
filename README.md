@@ -1,23 +1,19 @@
-# Análisis Avanzado — Primer cuatrimestre de 2025
+# Análisis Avanzado
 
-## Prácticas
+Primer cuatrimestre de 2025
 
-- [Clase%20compacidad%20Mariano%20con%20ejercicios%20que%20no%20dio%20el%20tiempo.pdf](Clase%20compacidad%20Mariano%20con%20ejercicios%20que%20no%20dio%20el%20tiempo.pdf)
-- [este link](Clase%20practica%20de%20Juan%20Garber%2022-04.pdf)
-- [Práctica 1 - Supremos, ínfimos y sucesiones](practica1.pdf)
-- [Práctica 2 - Cardinalidad](practica2.pdf)
-- [Práctica 3 - Espacios métricos](practica3.pdf)
-- [Práctica 4 - Funciones continuas](practica4.pdf)
-- [Práctica 5 - Compacidad](practica5.pdf)
-- [Práctica 6 - Espacios normados](practica6.pdf)
-- [Práctica 7 - Sucesiones de funciones](practica7.pdf)
-- [Práctica 8 - Medida de Lebesgue](practica8.pdf)
-- [Práctica 9 - Funciones medibles e integral de Lebesgue](practica9.pdf)
+## Información importante
 
-## Otros materiales
+- El martes 22/07 haremos la devolución del segundo recuperatorio, a las 17 hs., en las mesas del Departamento de Matemática (Segundo piso, Pabellón 1).- Se extendió el período de Encuestas de fin de cuatrimestre, hasta el 27/07. En caso de no haberla completado, por favor háganlo antes de esa fecha. En caso contrario, la cursada les quedará desaprobada.- Subimos al siguiente  [link](Clase compacidad Mariano con ejercicios que no dio el tiempo.pdf) un manuscrito de la clase que Mariano Negri dictó en el práctico del turno noche el 20/05, incluyendo algunos ejercicios que no dio el tiempo para discutir en clase y sus soluciones.- Hemos subido un manuscrito con el ejercicio final de la clase práctica del 24/04 turno noche que no llegamos a hacer en clase y su solución. El mismo está disponible en este link. También subimos la clase práctica de Juan Garber del 22/04 turno noche en [este link](Clase practica de Juan Garber 22-04.pdf).
 
-- [programa-biblio.pdf](programa-biblio.pdf)
+## 
 
-## Página original
+### Horarios y docentes
 
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/1ercuat2025/analisis_avanzado)
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Práctica 1 |
+
+Ma y Ju: 9 a 11 |
+
+Juan Francisco Piombo - Luciano Cassini - Facundo Zanola | Aula 1101 Pabellón 0 (martes) - Aula 3 Pabellón I (jueves) |
